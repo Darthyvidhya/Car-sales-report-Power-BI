@@ -1,11 +1,11 @@
-**CAR SALES REPORT**
-**1 . OBJECTIVE: **
+CAR SALES REPORT
+OBJECTIVE: 
 The objective of this project is to design and develop a dynamic and interactive Car Sales Dashboard using Power BI. 
 The dashboard will visualize critical KPIs related to our car sales, helping us understand our sales performance over time and make data-driven decisions.
 This dashboard provides real-time insights into key performance indicators (KPIs) related to the sales data. 
 This will enable us to make informed decisions, monitor , progress and identify trends and opportunities for growth.
 
-**KPI’S REQUIREMENT**
+KPI’S REQUIREMENT
 2.1 Sales Overview:
 • Year-to-Date (YTD) Total Sales
 • Month-to-Date (MTD) Total Sales
@@ -22,7 +22,7 @@ This will enable us to make informed decisions, monitor , progress and identify 
 • YOY Growth in Cars Sold
 • Difference between YTD Cars Sold and PTYD Cars Sold
 
-**3.CHARTS REQUIREMENT**
+CHARTS REQUIREMENT
 3.1 YTD Sales Weekly Trend: Display a line chart illustrating the weekly trend of YTD sales. 
 The X-axis should represent weeks, and the Y-axis should show the total sales amount.
 3.2 YTD Total Sales by Body Style: Visualize the distribution of YTD total sales across different car body styles using a Pie chart. 
